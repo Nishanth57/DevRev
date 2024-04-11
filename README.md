@@ -72,6 +72,6 @@ once the issue is created the Snap-in will display a hello Worls comment in the 
 ## Screenshots of output
 
 
-    ![](Screenshot 2024-04-12 010009.png)
-    ![](Screenshot 2024-04-12 005933.png)
-    ![](Screenshot 2024-04-12 005032.png)
+    ![1](output_snapshot\Screenshot 2024-04-12 005032.png)
+    ![1](output_snapshot\Screenshot 2024-04-12 005032.png)
+    ![1](output_snapshot\Screenshot 2024-04-12 005032.png)
