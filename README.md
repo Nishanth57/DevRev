@@ -63,10 +63,12 @@ To test the snap in Create a issue
 once the issue is created the Snap-in will display a hello Worls comment in the body
 
 
+## Output screenshot
+![Screenshot 2024-04-12 005032](https://github.com/Nishanth57/DevRev/assets/90918241/565b3120-c16f-42a1-ad9f-8aa852e3a0f3)
+![Screenshot 2024-04-12 005933](https://github.com/Nishanth57/DevRev/assets/90918241/e8b9e5b6-66bc-4097-92a4-1b7dc48a21f9)
+![Screenshot 2024-04-12 010009](https://github.com/Nishanth57/DevRev/assets/90918241/42fea63a-92f5-4eef-9c09-3ff276f8153e)
 
 
 
 
-![](output_snapshot\Screenshot 2024-04-12 005032.png)
-![](output_snapshot\Screenshot 2024-04-12 005032.png)
-![](output_snapshot\Screenshot 2024-04-12 005032.png)
+
