@@ -10,7 +10,32 @@ For using a DevRev api we should have a DevRev Account.
 
 Once we create a DevRev account the next important step is to Generate a PAT(Personal Access Token) 
 
-Here using the generated PAT the DevRev API can be accessed to retrive the user details.
+Here using the generated PAT the DevRev API can be accessed and a work item can be created
+URL to create a work item(issue) is
+
+    https://api.devrev.ai/works.create
+
+ Header and data format is given below
+
+       curl -X POST https://api.devrev.ai/works.create \
+        -H "Authorization: <apiKey>" \
+        -H "Content-Type: application/json" \
+        -d '{
+     "type": "issue",
+     "applies_to_part": "string",
+     "owned_by": [
+       "string"
+     ],
+     "title": "string"
+    }'
+
+## Output of Creating a work item using DevRev Api
+![Screenshot 2024-04-12 225859](https://github.com/Nishanth57/DevRev/assets/90918241/2d0f19e5-0beb-4cc4-be6b-b3d09ead46c7)
+
+![Screenshot 2024-04-12 225836](https://github.com/Nishanth57/DevRev/assets/90918241/7ddc8c4b-2c25-4abf-a839-f91f08c7612d)
+
+
+  
 
 
 ## Hello world Snap-in
